@@ -1,0 +1,1 @@
+# jest-group-snapshots
