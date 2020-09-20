@@ -1,22 +1,26 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Jest Group Snapshots: ELEMENT 1`] = `
-*** Body element before ***
+Body element before
+-------------------
 <body
   style="color: red;"
 />
 
-*** Body element after ***
+Body element after
+------------------
 <body
   style="color: blue;"
 />
 `;
 
 exports[`Jest Group Snapshots: Object 1`] = `
-*** Flag disabled ***
+Flag disabled
+-------------
 Object {}
 
-*** Flag enabled ***
+Flag enabled
+------------
 Object {
   "enabled": true,
 }
